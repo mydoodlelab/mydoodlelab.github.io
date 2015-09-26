@@ -1,3 +1,3 @@
-# doodlelabs.github.io
-DoodleLabs_website
-DoodleLabs Website
+# mydoodlelabs.github.io
+myDoodleLabs_website
+myDoodleLabs Website
